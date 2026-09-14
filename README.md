@@ -80,3 +80,23 @@ I will continuously update this repository as I solve more problems.
 ---
 
 Keep solving. Keep learning. Keep improving. 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ANISHA-S-code/leetsync_code_06/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ANISHA-S-code/leetsync_code_06/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ANISHA-S-code/leetsync_code_06/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ANISHA-S-code/leetsync_code_06/tree/master/0022-generate-parentheses) |
+<!---LeetCode Topics End-->
