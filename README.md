@@ -87,6 +87,7 @@ Keep solving. Keep learning. Keep improving. 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ANISHA-S-code/leetsync_code_06/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/ANISHA-S-code/leetsync_code_06/tree/master/0043-multiply-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +100,12 @@ Keep solving. Keep learning. Keep improving. 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ANISHA-S-code/leetsync_code_06/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ANISHA-S-code/leetsync_code_06/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ANISHA-S-code/leetsync_code_06/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
